@@ -13,7 +13,7 @@ function concatenated(con) {
   //   return "hello";
 }
 
-function templateLiterals(temp) {
+function templateLiterals() {
 //   return strings("") + concatenated("");
 return `${strings('')} ${concatenated('')}`
 }
